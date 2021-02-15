@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+            android:title="Select lines to show/not show">
+
+    </PreferenceCategory>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="1" android:key="switch_pref_1"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="2" android:key="switch_pref_2"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="3" android:key="switch_pref_3"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="4" android:key="switch_pref_4"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="5" android:key="switch_pref_5"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="6" android:key="switch_pref_6"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="8" android:key="switch_pref_8"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="9" android:key="switch_pref_9"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="10" android:key="switch_pref_10"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="11" android:key="switch_pref_11"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="12" android:key="switch_pref_12"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="13" android:key="switch_pref_13"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="14" android:key="switch_pref_14"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="15" android:key="switch_pref_15"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="17" android:key="switch_pref_17"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="20" android:key="switch_pref_20"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="21" android:key="switch_pref_21"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="24" android:key="switch_pref_24"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="25" android:key="switch_pref_25"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="26" android:key="switch_pref_26"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="27" android:key="switch_pref_27"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="28" android:key="switch_pref_28"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="29" android:key="switch_pref_29"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="31" android:key="switch_pref_31"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="32" android:key="switch_pref_32"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="33" android:key="switch_pref_33"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="35" android:key="switch_pref_35"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="37" android:key="switch_pref_37"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="38" android:key="switch_pref_38"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="40" android:key="switch_pref_40"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="45" android:key="switch_pref_45"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="50" android:key="switch_pref_50"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="55" android:key="switch_pref_55"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="65" android:key="switch_pref_65"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="70" android:key="switch_pref_70"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="71" android:key="switch_pref_71"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="72" android:key="switch_pref_72"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="73" android:key="switch_pref_73"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="74" android:key="switch_pref_74"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="79" android:key="switch_pref_79"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="80" android:key="switch_pref_80"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="81" android:key="switch_pref_81"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="83" android:key="switch_pref_83"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="84" android:key="switch_pref_84"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="85" android:key="switch_pref_85"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="90" android:key="switch_pref_90"/>
+    <SwitchPreference
+            android:defaultValue="true"
+            android:title="137" android:key="switch_pref_137"/>
+</PreferenceScreen>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HT Simple TKL Bus Radar</string>
+    <string name="title_activity_maps">Simple TKL Bus Radar</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- General settings -->
+    <string name="pref_header_general">About</string>
+
+    <!-- Lines settings -->
+    <string name="pref_lines">Lines</string>
+</resources>
